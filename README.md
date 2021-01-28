@@ -11,3 +11,12 @@ This can be implemented using semaphores.
 I have considered two condition :
 1. when reader has the priority 
 2.When writer has the priority
+
+
+
+References :- 
+Operating system Concepts- Galvin
+http://faculty.cs.niu.edu/~hutchins/csci480/semaphor.htm
+https://computing.llnl.gov/tutorials/pthreads/
+https://www.educative.io/edpresso/how-to-create-a-simple-thread-in-c
+
